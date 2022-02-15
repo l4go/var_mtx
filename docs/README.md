@@ -1,4 +1,4 @@
-golib/var_mtx ライブラリ
+l4go/var_mtx ライブラリ
 ===
 
 `interface{}`の値の粒度で排他制御を提供するモジュール群です。  
